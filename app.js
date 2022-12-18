@@ -23,6 +23,4 @@ console.log(`
     Social  : ${ soc }
     Religion: ${ rel }
 
-
-
 `);
